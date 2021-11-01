@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **ReactJS, Vue.**
 
-- 👯 I’m looking to collaborate on [subarmc.pl](http://dc.subarmc.pl)
-
 - 👨‍💻 All of my projects are available at [https://polemic.pl/](https://polemic.pl/)
 
 - 📫 How to reach me **Polemic#5231 | modzstrike3@gmail.com**
