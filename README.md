@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oskar</h1>
 <h3 align="center">A passionate fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on [Long Life - RP](https://discord.gg/nrbXPWyRB2)
+- 🔭 I’m currently working on [SubarMC.PL](http://dc.subarmc.pl)
 
 - 🌱 I’m currently learning **ReactJS, Vue.**
 
