@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Oskar</h1>
 <h3 align="center">A passionate fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on [SubarMC.PL](http://dc.subarmc.pl)
+- 🔭 I’m currently working on [KNK Studio](https://discord.gg/KBRSjVa6Mj)
 
 - 🌱 I’m currently learning **ReactJS, Vue.**
 
 - 👨‍💻 All of my projects are available at [https://polemic.pl/](https://polemic.pl/)
 
-- 📫 How to reach me **Polemic#5231 | modzstrike3@gmail.com**
+- 📫 How to reach me **Polemic#1337 | modzstrike3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
