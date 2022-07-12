@@ -7,7 +7,7 @@
 
 - 📫 How to contact me **Polemic#1337**
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Languages I know: Html, Css, Java, Lua, Php, Js, C#
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Languages I know: Html, Css, Java, Lua, Php, Js, C# (UI/UX Design)
 ### Contact:
 <a href="https://discord.gg/C8dF6zkYff" align="left">
   <img src="https://discord.c99.nl/widget/theme-4/964938729724715008.png" align="right">
