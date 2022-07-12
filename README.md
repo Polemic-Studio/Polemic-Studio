@@ -8,5 +8,3 @@
 - 📫 How to contact me **Polemic#1337**
 
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Languages I know: Html, Css, Java, Lua, Php, Js, C#
-
-<img src="https://komarev.com/ghpvc/?username=Polemic-Studio" alt="Polemic-Studio" />
