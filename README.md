@@ -10,6 +10,6 @@
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Languages I know: Html, Css, Java, Lua, Php, Js, C#
 ### Contact:
 <a href="https://discord.gg/C8dF6zkYff" align="left">
-  <img src="https://discord.c99.nl/widget/theme-4/827983599251882027.png" align="right">
+  <img src="https://discord.c99.nl/widget/theme-4/964938729724715008.png" align="right">
   <img src="https://discord.com/api/guilds/908864960698921000/widget.png?style=banner2"></a>
 </a>
