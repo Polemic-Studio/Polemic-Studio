@@ -10,10 +10,10 @@
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Languages I know: Html, Css, Java, Lua, Php, Js, C# (UI/UX Design)
 
 ### My projects:
-- [https://ctxsend.com/](https://ctxsend.com/) - Html + Css + Php + (API)
-- [https://kn-cloud.pl/](https://kn-cloud.pl/) - Html + Css + Js + Php
+- [https://ctxsend.com/](https://ctxsend.com/) - Html + Css + Php + Dicord Bot + (API)
+- [https://kn-cloud.pl/](https://kn-cloud.pl/) - Html + Css + Js + Php + Discord BOT
 - [https://mrstudios.pl/](https://mrstudios.pl/) - Html + Css + Js
-- [https://sunpvp.pl/](https://sunpvp.pl/) - Html + Css + Js + Server plugins Java
+- [https://sunpvp.pl/](https://sunpvp.pl/) - Html + Css + Js + Server plugins Java + Discord Bot
 
 ### Contact:
 <a href="https://discord.gg/C8dF6zkYff" align="left">
